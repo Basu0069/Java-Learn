@@ -21,6 +21,7 @@ public class _008_resulting_data_type {
         System.out.println(i);
         System.out.println(++i);
         System.out.println(i);
+        
 
     }
 }
