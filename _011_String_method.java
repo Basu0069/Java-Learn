@@ -4,7 +4,7 @@ public class _011_String_method {
         String name = "Harry";
         // // System.out.println(name);
         int value = name.length();
-        System.out.println(value);
+        // System.out.println(value);
 
         // String lstring= name.toLowerCase();
         // System.out.println(lstring);
@@ -19,8 +19,34 @@ public class _011_String_method {
         // String trimmedString = nonTrimmedString.trim();
         // System.out.println(trimmedString);
 
-        System.out.println(name.substring(2));
-13.57
+        // System.out.println(name.substring(2));
+        // System.out.println(name.substring(1,4));
+        // System.out.println(name.replace('r','p'));
+        // System.out.println(name.replace("rry","ier"));
+
+
+        // System.out.println(name.startsWith("Har"));
+        // System.out.println(name.endsWith("d"));
+
+
+        // System.out.println(name.charAt(3));
+
+    String modifiedName= "Harryrry";
+
+        // System.out.println(modifiedName.indexOf("rry"));
+        // System.out.println(modifiedName.indexOf("rry",4));
+        // System.out.println(modifiedName.lastIndexOf("rry",4));
+
+
+        System.out.println(name.equals("Harry"));
+        System.out.println(name.equalsIgnoreCase("HarRY"));
+
+
+        System.out.println("I am escape sequence \\ double quote");
+
+
+
+
          
     }
 }
