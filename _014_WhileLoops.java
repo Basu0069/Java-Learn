@@ -10,5 +10,9 @@ public class _014_WhileLoops {
 
         }
         System.out.println("Finish Running while loop");
+
+        while(true){
+            System.out.println("I am a infinte while loop");
+        }
     }
 }
