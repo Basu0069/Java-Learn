@@ -1,15 +1,15 @@
 public class _020_arrays {
     public static void main(String[] args) {
-        // int marks []= {98,45,79,80,99};
-        // float marks[]= {98.1f,45.2f,79.2f,99.7f,80.1f};
-        // String students []={"Harry","Rohan","Shubham","Lovish"};
+        int marks []= {98,45,79,80,99};
+        float marks[]= {98.1f,45.2f,79.2f,99.7f,80.1f};
+        String students []={"Harry","Rohan","Shubham","Lovish"};
 
         
-        // System.out.println(marks.length);
-        // System.out.println(marks[2]);
+        System.out.println(marks.length);
+        System.out.println(marks[2]);
 
-        // System.out.println(students.length);
-        // System.out.println(students[2]);
+        System.out.println(students.length);
+        System.out.println(students[2]);
 
 
         int num []={98,56,23,12,10};

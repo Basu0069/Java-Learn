@@ -6,30 +6,30 @@ public class _011_String_method {
         int value = name.length();
         // System.out.println(value);
 
-        // String lstring= name.toLowerCase();
-        // System.out.println(lstring);
+        String lstring= name.toLowerCase();
+        System.out.println(lstring);
 
-        // String ustring= name.toUpperCase();
-        // System.out.println(ustring);
-
-
-        // // trim se extra spaces remove ho jati h 
-        // String nonTrimmedString = "        Harry            ";
-        // System.out.println(nonTrimmedString);
-        // String trimmedString = nonTrimmedString.trim();
-        // System.out.println(trimmedString);
-
-        // System.out.println(name.substring(2));
-        // System.out.println(name.substring(1,4));
-        // System.out.println(name.replace('r','p'));
-        // System.out.println(name.replace("rry","ier"));
+        String ustring= name.toUpperCase();
+        System.out.println(ustring);
 
 
-        // System.out.println(name.startsWith("Har"));
-        // System.out.println(name.endsWith("d"));
+        // trim se extra spaces remove ho jati h 
+        String nonTrimmedString = "        Harry            ";
+        System.out.println(nonTrimmedString);
+        String trimmedString = nonTrimmedString.trim();
+        System.out.println(trimmedString);
+
+        System.out.println(name.substring(2));
+        System.out.println(name.substring(1,4));
+        System.out.println(name.replace('r','p'));
+        System.out.println(name.replace("rry","ier"));
 
 
-        // System.out.println(name.charAt(3));
+        System.out.println(name.startsWith("Har"));
+        System.out.println(name.endsWith("d"));
+
+
+        System.out.println(name.charAt(3));
 
     String modifiedName= "Harryrry";
 

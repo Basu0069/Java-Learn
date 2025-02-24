@@ -2,16 +2,16 @@ public class _017_Break {
     public static void main(String[] args) {
         // break and continue using loops
 
-        // for(int i=0;i<5;i++){
-        //     System.out.println(i);
-        //     System.out.println("Java is great");
+        for(int i=0;i<5;i++){
+            System.out.println(i);
+            System.out.println("Java is great");
 
-        //     if(i==2){
-        //         System.out.println("Ending the loop");
-        //         break;
-        //     }
-        // }
-        // System.out.println("loops end here");
+            if(i==2){
+                System.out.println("Ending the loop");
+                break;
+            }
+        }
+        System.out.println("loops end here");
 
 
 
