@@ -48,9 +48,9 @@ public class _024_Method_Overloading {
 
         // NOTE: In case of arrays the reference is passed same is the case for object passing to methods.
         
-        // int marks[]= {52,73, 77,89,98,94};
-        // change2(marks);
-        // System.out.println("The value of x after running change is: "+ marks[0]);
+        int marks[]= {52,73, 77,89,98,94};
+        change2(marks);
+        System.out.println("The value of x after running change is: "+ marks[0]);
 
 
 
@@ -58,8 +58,8 @@ public class _024_Method_Overloading {
 
 
 
-        foo();
-        foo( 3000);
+        // foo();
+        // foo( 3000);
 
         // Arguments are actual! 
         

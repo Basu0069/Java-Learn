@@ -1,6 +1,6 @@
 // A method is a function written inside a class
 public class _023_methods {
-  
+//   Static it belongs to the class not to an instance of the class .
     static int logic(int x, int y){
         int z;
         if(x>y){

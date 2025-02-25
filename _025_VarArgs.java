@@ -3,17 +3,17 @@
 
 public class _025_VarArgs {
 
-    // static int sum(int a, int b){
-    //     return a+b;
-    // }
+//     static int sum(int a, int b){
+//         return a+b;
+//     }
 
-    // static int sum(int a, int b,int c ){
-    //     return a+b+c;
-    // }
+//     static int sum(int a, int b,int c ){
+//         return a+b+c;
+//     }
 
-    // static int sum(int a, int b,int c ,int d){
-    //     return a+b+c+d;
-    // }
+//     static int sum(int a, int b,int c ,int d){
+//         return a+b+c+d;
+//     }
 // YOu dont hav to make these all function here like this so just have to pass argument here like that 
 
 

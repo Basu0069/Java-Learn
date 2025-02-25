@@ -63,13 +63,13 @@ public class _029_practice {
     public static void main(String[] args) {
         
         // Porblem 1 
-        /*Create a class employee with following properties and methods 
-         * salary(property)(int)
-         * getSalary(method returning int)
-         * name(property)(string)
-         * getName(method returning string)
-         * setName(method changing name)
-         */
+        // Create a class employee with following properties and methods 
+        //  * salary(property)(int)
+        //  * getSalary(method returning int)
+        //  * name(property)(string)
+        //  * getName(method returning string)
+        //  * setName(method changing name)
+         
 
         //  Employee harry = new Employee();
         //  harry.setName("CodewithHarry");
